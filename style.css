@@ -1,0 +1,56 @@
+body {
+	background-color: gold;
+	padding-left: 2vw;
+	color: black;
+}
+
+header.name {
+	font-family: 'Lilita One', cursive;
+	font-size: 11vw;
+	margin-bottom: 80px;
+}
+
+header.name img {
+	max-width: 17%;
+	height: auto;
+}
+
+article {
+	margin-top: 20px;
+	margin-left: 15vw;
+	margin-right: 15vw;
+}
+
+article h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+article main {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.5vw;
+}
+
+article main details summary {
+	font-size: larger;
+	outline-color: white;
+}
+
+article main details p {
+	padding-top: 10px;
+	padding-left: 26px;
+	padding-right: 26px;
+}
+
+table {
+}
+
+table,
+th,
+td {
+	border: 1px solid black;
+	margin-top: 10px;
+	margin-left: 26px;
+	margin-right: 26px;
+	margin-bottom: 30px;
+	padding: 10px;
+}
